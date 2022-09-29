@@ -2,7 +2,7 @@
 
 The game deloyed to Goerly networks or you can deploy your own game
 
-## Available Scripts
+## Available Scripts to deloy
 
 In the lottery-contract project directory, you can run:
 
